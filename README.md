@@ -1,5 +1,5 @@
 # LeetCode-problems-solutions
-The repository comprises a number of programming solutions to LeetCode problems.
+The repository comprises a number of programming solutions to LeetCode problems (in Python).
 
 URL: https://leetcode.com/
 
